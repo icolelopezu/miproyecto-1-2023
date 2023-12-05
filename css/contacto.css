@@ -1,0 +1,27 @@
+#formularioDatos{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #D3EE9F;
+}
+input[type=text],label,input[type=Number],select,textarea{
+    padding: 10px;
+    width: 50%;
+    border-radius: 8px;
+    outline: none;
+    border-bottom: 1px solid black;
+
+}
+input[type=button]{
+    width: 30%;
+    margin: 25px;
+    background-color: blue;
+}
+input[type=button]{
+    background:linear-gradient(45deg,greenyellow,dodgerblue);
+    cursor:pointer;
+}
+label{
+    width: 50px;
+    padding: 15px 0px 5px 12px;
+}
